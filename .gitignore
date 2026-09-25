@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+flagged_questions.log
+.venv/
+env/
